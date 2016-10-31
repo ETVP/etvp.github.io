@@ -1,0 +1,117 @@
+<!doctype html>
+<html>
+<head>
+    <title></title>
+    <meta http-equiv="content-type" content="text/html;charset=utf-8">
+    <link rel="stylesheet" type="text/css" href="/styles/evc.css">
+    <link rel="stylesheet" type="text/css" href="/styles/sliderman.css"/>
+    <link rel="stylesheet" type="text/css"
+          href="https://cdn.bootcss.com/font-awesome/4.6.3/css/font-awesome.min.css">
+</head>
+<body>
+<header>
+    <div class="background"></div>
+    <a href="/">
+        <div style="color: white; font-size: 48px;">
+            Embeded & Vision
+        </div>
+    </a>
+    <nav>
+        <a href="/"><i class="fa fa-home"></i><span>首页</span></a>
+        <a href="/news.html"><i class="fa fa-newspaper-o"></i><span>动态</span></a>
+        <a href="/research.html"><i class="fa fa-search"></i><span>科研</span></a>
+        <a href="/project.html"><i class="fa fa-file-code-o"></i><span>项目</span></a>
+        <a href="/team.html"><i class="fa fa-users"></i><span>团队</span></a>
+    </nav>
+    <div class="bar"></div>
+</header>
+<!-- 主体内容 -->
+<div id="main">
+<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+
+    <header class="post-header">
+        <h1 class="post-title" itemprop="name headline">基于ROS的NAO机器人的实时路径规划</h1>
+        <p class="post-meta">
+            <span>
+            <span class="fa fa-calendar"></span> <time> 2016-05-20 </time>
+            
+            </span>
+        </p>
+    </header>
+
+    <div class="post-content" itemprop="articleBody">
+        <p>改进的蚁群算法在Nao机器人上的实现，机器人行走主要是将规划好的路径数据转化为机器人的步伐（通过多次实验测试）</p>
+
+<p>系统核心流程分为两部分：</p>
+
+<h2 id="section">采集与地图生成</h2>
+
+<p>在Nao机器人头上外接一个华硕Xtion（可以完美的与Nao机器人适配），负责采集深度和RGB数据，再将这些数据打包成ROS message发送给处理节点，之后通过订阅topic获取数据并利用SLAM技术合成PCL地图。此时生成的地图是三维的，而改进的蚁群算法需要的输入是用0-1表示二维数组来模拟地图，此时对三维数据进行“压缩”，最后将生成的二维地图交给算法，生成规划后的路径后交由机器人控制端进行处理。</p>
+
+<p><img src="/wp-content/uploads/2016/01/image010-291x300.png" alt="image010" /></p>
+
+<p>Nao机器人</p>
+
+<p><img src="/wp-content/uploads/2016/01/1-1-300x300.jpg" alt="1 (1)" /></p>
+
+<p>三维地图</p>
+
+<p><img src="/wp-content/uploads/2016/01/2-300x287.jpg" alt="2" /></p>
+
+<p>二维地图</p>
+
+<p><img src="/wp-content/uploads/2016/01/1-1-300x259.png" alt="1" /></p>
+
+<p>路径规划后的地图（箭头所指部分为生成路径）</p>
+
+<h2 id="section-1">动态避障</h2>
+
+<p>利用Nao机器人的声呐传感器，检测到行人后，会停止并发送一个“停止”的ROS消息，机器人行走并重新生成地图和规划路径。</p>
+
+    </div>
+
+</article>
+<link rel="stylesheet" href="/bower_components/KaTeX/dist/katex.min.css">
+<script type="text/javascript" src="/bower_components/KaTeX/dist/katex.min.js"></script>
+<script>
+    function render(refNode) {
+        var tex, displayMode = false, container;
+        if (refNode.type === 'math/tex') {
+            tex = refNode.text;
+            container = document.createElement('span');
+        } else {
+            tex = refNode.text.substr(12, refNode.text.length - 17);
+            displayMode = true;
+            container = document.createElement('div');
+        }
+        console.log(tex);
+        katex.render(tex, container, {displayMode: displayMode});
+        refNode.parentNode.insertBefore(container, refNode);
+    }
+    var scripts = document.getElementsByTagName('script');
+    for (var i = 0; i < scripts.length; i++) {
+        if (scripts[i].type.startsWith('math/tex')) {
+            render(scripts[i]);
+        }
+    }
+</script>
+
+
+
+</div>
+<footer>
+    <p>
+        <a href="http://beslab.xidian.edu.cn">嵌入式技术与视觉处理研究中心</a>@<a
+            href="http://www.xidian.edu.cn">西安电子科技大学</a>
+    </p>
+    <p>
+        陕西省西安市太白南路2号
+    </p>
+    <p>
+        Copyright @ 2016
+    </p>
+</footer>
+<script type="text/javascript" src="/scripts/sliderman.js"></script>
+<script type="text/javascript" src="/scripts/slider.js"></script>
+</body>
+</html>

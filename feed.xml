@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>嵌入式技术与视觉处理研究中心</title>
+    <description>西安电子科技大学嵌入式技术与视觉处理研究中心
+</description>
+    <link>http://xdubeslab.github.io/</link>
+    <atom:link href="http://xdubeslab.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 10 Oct 2016 23:26:30 +0800</pubDate>
+    <lastBuildDate>Mon, 10 Oct 2016 23:26:30 +0800</lastBuildDate>
+    <generator>Jekyll v3.1.6</generator>
+    
+      <item>
+        <title>张亮教授受邀参加IROS 2016国际会议</title>
+        <description>&lt;p&gt;西安电子科技大学嵌入式技术与视觉处理研究中心张亮教授，受邀赴韩国参加第29届IROS会议。据了解，张亮教授是本次会议唯一国内的青年学者作为大会分会主席（Session Chair）。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/news/ros/image002.gif&quot; alt=&quot;LOGO&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;据悉，本次会议录入《Human Activity Recognition Based on Weighted Limb Features》该论文对视觉领域中人体行为识别这一课题提出一种高效准确的方法，是嵌入式技术与视觉研究中心在计算机视觉领域的一项突破。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/news/ros/image003.jpg&quot; alt=&quot;LOGO&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;IROS 是由IEEE和RSJ（日本机器人协会）联合发起的世界机器人顶尖学术会议。2016年第29届IROS会议将于10月9日到10月14日在韩国大田召开。来自全世界的2500名机器人专家，政府官员，企业代表将参加此次会议。&lt;/p&gt;
+
+&lt;p&gt;大会官网：(http://www.iros2016.org)&lt;/p&gt;
+
+&lt;p&gt;西安电子科技大学嵌入式技术与视觉处理研究中心（XD-ETVP），成立于2015年10月。研究中心依托于原西电软件学院大数据技术和嵌入式系统实验室基础成立，重点关注嵌入式技术、机器人复杂场景中环境感知与场景理解、地图构建与导航、机器学习、图像分布式编码、图像去雾增强等热点研究方向。软件学院张亮副教授现担任中心主任，团队成员包括沈沛意教授、张向东副教授、宋娟副教授、朱光明博士，硕士研究生共计40余人。&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 10 Oct 2016 00:00:00 +0800</pubDate>
+        <link>http://xdubeslab.github.io/news/2016/10/10/iros.html</link>
+        <guid isPermaLink="true">http://xdubeslab.github.io/news/2016/10/10/iros.html</guid>
+        
+        
+        <category>news</category>
+        
+      </item>
+    
+      <item>
+        <title>西电ETVP研究中心获ChaLearn 2016手势识别竞赛第3名</title>
+        <description>&lt;p&gt;8月21日，国际多模态手势识别竞赛（ChaLearn LAP Large-scale Isolated Gesture Recognition Challenge 2016）公布比赛结果，由西安电子科技大学嵌入式技术与视觉处理研究中心&amp;amp;公安部第三研究所联合组队XDETVP-TRIMPS获得第三名的好成绩。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/common/north-building.jpg&quot; alt=&quot;image001&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;研究中心和公安部三所联队，努力克服时间紧、任务重的困难，针对在连续数据流中的非特定用户手势发现与识别问题，提出了自己的算法。在竞赛最终性能评估环节中，其优异结果从全球53支参赛队伍中脱颖而出，位列第三。这为我中心在机器人动作感知领域的研究奠定了坚实基础。同时，联队将获得参加国际模式识别大会（ICPR）的资格，相关成果也将推荐至 IEEE 期刊发表。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/common/3.jpg&quot; alt=&quot;image002&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;据悉，本次ChaLearn 2016手势识别竞赛吸引了来自清华、中科院自动化所、澳大利亚卧龙岗大学、悉尼科技大学、西班牙巴塞罗那大学等全球著名科研院所和高校共53支参赛队伍。ChaLearn多模态手势识别竞赛数据集由微软Kinect传感器采集，包含彩色视频、深度视频、骨骼等数据，总时长约24个小时，包含13,858个手势实例，由27名人员进行录制，为非特定用户的手势发现与识别问题提供了优质测试数据。&lt;/p&gt;
+
+&lt;p&gt;各参赛队伍需根据训练数据集，对各自模型参数进行训练，并提交最终识别模型。竞赛组织方在未公布测试集上进行评估与排名。ChaLearn 手势识别竞赛专注于基于 Kinect 的手势发现与识别。每届竞赛都吸引50余支来自不同国家地区的参赛队伍，促进了手势识别算法之间的对比、交流与融合，相信将对学术界与工业界产生深远的影响。&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;西安电子科技大学嵌入式技术与视觉处理研究中心（XD-ETVP），成立于2015年10月。中心依托于原西电软件学院大数据技术和嵌入式系统实验室基础成立，重点关注嵌入式技术、机器人复杂场景中环境感知与场景理解、地图构建与导航、机器学习、图像分布式编码、图像去雾增强等热点研究方向。软件学院张亮副教授现担任中心主任。&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 22 Aug 2016 00:00:00 +0800</pubDate>
+        <link>http://xdubeslab.github.io/research/2016/08/22/etvp.html</link>
+        <guid isPermaLink="true">http://xdubeslab.github.io/research/2016/08/22/etvp.html</guid>
+        
+        
+        <category>research</category>
+        
+      </item>
+    
+      <item>
+        <title>基于ROS的NAO机器人的实时路径规划</title>
+        <description>&lt;p&gt;改进的蚁群算法在Nao机器人上的实现，机器人行走主要是将规划好的路径数据转化为机器人的步伐（通过多次实验测试）&lt;/p&gt;
+
+&lt;p&gt;系统核心流程分为两部分：&lt;/p&gt;
+
+&lt;h2 id=&quot;section&quot;&gt;采集与地图生成&lt;/h2&gt;
+
+&lt;p&gt;在Nao机器人头上外接一个华硕Xtion（可以完美的与Nao机器人适配），负责采集深度和RGB数据，再将这些数据打包成ROS message发送给处理节点，之后通过订阅topic获取数据并利用SLAM技术合成PCL地图。此时生成的地图是三维的，而改进的蚁群算法需要的输入是用0-1表示二维数组来模拟地图，此时对三维数据进行“压缩”，最后将生成的二维地图交给算法，生成规划后的路径后交由机器人控制端进行处理。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/wp-content/uploads/2016/01/image010-291x300.png&quot; alt=&quot;image010&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Nao机器人&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/wp-content/uploads/2016/01/1-1-300x300.jpg&quot; alt=&quot;1 (1)&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;三维地图&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/wp-content/uploads/2016/01/2-300x287.jpg&quot; alt=&quot;2&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;二维地图&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/wp-content/uploads/2016/01/1-1-300x259.png&quot; alt=&quot;1&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;路径规划后的地图（箭头所指部分为生成路径）&lt;/p&gt;
+
+&lt;h2 id=&quot;section-1&quot;&gt;动态避障&lt;/h2&gt;
+
+&lt;p&gt;利用Nao机器人的声呐传感器，检测到行人后，会停止并发送一个“停止”的ROS消息，机器人行走并重新生成地图和规划路径。&lt;/p&gt;
+</description>
+        <pubDate>Fri, 20 May 2016 00:00:00 +0800</pubDate>
+        <link>http://xdubeslab.github.io/project/2016/05/20/nao-rt-pp.html</link>
+        <guid isPermaLink="true">http://xdubeslab.github.io/project/2016/05/20/nao-rt-pp.html</guid>
+        
+        
+        <category>project</category>
+        
+      </item>
+    
+      <item>
+        <title>Android手机控制NAO机器人</title>
+        <description>&lt;p&gt;Nao机器人的软件可编程平台虽然没有开源，但是提供了丰富的API供开发者使用。&lt;/p&gt;
+
+&lt;p&gt;在同一局域网内，Android手机和Nao机器人通过Socket通信——android应用端定义了一系列的button用来发送不同的命令，这样在Nao机器人平台运行的服务器接收到命令以后将作出相应的反应（例如走路，转头），并返回相应的数据（例如摄像头采集的视频流数据），这些都由官方提供的API实现（Python）。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/wp-content/uploads/2016/01/image006-300x245.png&quot; alt=&quot;image006&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;通信模块示意&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/wp-content/uploads/2016/01/1-300x188.png&quot; alt=&quot;1&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Android应用界面（控制按钮与视频显示）&lt;/p&gt;
+
+&lt;p&gt;详细实现参见BES实验室郭枭鹏《仿人机器人控制与环境识别算法的研究及实现》&lt;/p&gt;
+</description>
+        <pubDate>Thu, 19 May 2016 00:00:00 +0800</pubDate>
+        <link>http://xdubeslab.github.io/project/2016/05/19/android-conrol-nao.html</link>
+        <guid isPermaLink="true">http://xdubeslab.github.io/project/2016/05/19/android-conrol-nao.html</guid>
+        
+        
+        <category>project</category>
+        
+      </item>
+    
+      <item>
+        <title>2015年教师节实验室团聚</title>
+        <description>&lt;p&gt;西安电子科技大学“大数据技术和嵌入式系统实验室”9日晚，举行教师节招待会，热烈庆祝第31个教师节的来临。&lt;/p&gt;
+
+&lt;p&gt;沈沛意、张向东、张亮、宋娟、朱光明等五位老师和实验室三十余名学子欢聚一堂，喜迎佳节。
+9日的西安，小雨淅淅沥沥，天气微凉，但实验室每名学子心中非常高兴，期盼着实验室一年一度教师节招待会的举行。
+晚7时许，实验室五位老师步入宴会厅，全场响起热烈掌声，大家纷纷围上去向老师们致意。
+今晚参加聚会的实验室学子，有已经入职的老学长们，有正在刻苦攻读的研三、研二的师兄师姐们，还有刚刚进入实验室的大四学弟学妹们。
+招待会由本届研一的同学们策划筹办。
+招待会伊始，同学们纷纷举杯，大声喊出“祝老师节日快乐！”，向老师们致以衷心的祝贺和诚挚的问候。
+老师们非常高兴：“谢谢同学们！谢谢大家”。
+随后，在热烈的掌声中，张向东老师代表五位教师致辞。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/wp-content/uploads/2016/01/image001-1-300x200.jpg&quot; alt=&quot;image001&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;张老师说，今天非常开心，能有这么一次机会和大家在一起。今天的聚会，实验室来的人最多最全，有已经工作的同学，有在校同学，还有大四刚进实验室的小同学们。以后由于各种原因，这样的机会可能就非常少了，希望大家好好珍惜每一次团聚的时刻，将这份情谊传递下去。谢谢同学们！&lt;/p&gt;
+
+&lt;p&gt;大家对张老师一番真情致辞报以热烈的掌声。聚餐正式开始。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/wp-content/uploads/2016/01/image003-1-300x200.jpg&quot; alt=&quot;image003&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;席间觥筹交错，欢声笑语，同学们纷纷向老师们敬酒祝贺。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/wp-content/uploads/2016/01/image006-300x200.jpg&quot; alt=&quot;image006&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;在华为实习的孙庚泽学长向老师们敬酒&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/wp-content/uploads/2016/01/image007-1-300x200.jpg&quot; alt=&quot;image007&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;研三的师兄师姐们向老师们敬酒&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/wp-content/uploads/2016/01/image009-1-300x200.jpg&quot; alt=&quot;image009&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;已经工作的王剑学长专程赶来参加聚会&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/wp-content/uploads/2016/01/image011-1-300x200.jpg&quot; alt=&quot;image011&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;老师们和学长学姐们互动。随后，沈老师举起酒杯，向同学们致意。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/wp-content/uploads/2016/01/image013-300x200.jpg&quot; alt=&quot;image013&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;沈老师与大家碰杯&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/wp-content/uploads/2016/01/image015-300x200.jpg&quot; alt=&quot;image015&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;沈老师祝贺大家工作顺利&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/wp-content/uploads/2016/01/image017-300x200.jpg&quot; alt=&quot;image017&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;沈老师端起酒杯向同学们致意。张向东老师、张亮老师和同学们互动，气氛非常融洽&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/wp-content/uploads/2016/01/image019-300x200.jpg&quot; alt=&quot;image019&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/wp-content/uploads/2016/01/image021-300x200.jpg&quot; alt=&quot;image021&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;各届同学们之间也互致问候，纷纷举杯欢庆。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/wp-content/uploads/2016/01/image023-300x200.jpg&quot; alt=&quot;image023&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;大四小同学们向学长们敬酒&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/wp-content/uploads/2016/01/image025-300x200.jpg&quot; alt=&quot;image025&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;大四、研一、研二、研三“四世同堂”举杯庆贺&lt;/p&gt;
+
+&lt;p&gt;师恩深似海，今夜共联欢。
+在欢声笑语中，招待会就要结束了，老师们和同学们合影留念，将聚会的气氛推向了高潮。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/wp-content/uploads/2016/01/image027-300x200.jpg&quot; alt=&quot;image027&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;实验室全家福&lt;/p&gt;
+
+&lt;p&gt;文/小李 摄影/张笑&lt;/p&gt;
+</description>
+        <pubDate>Sun, 20 Sep 2015 00:00:00 +0800</pubDate>
+        <link>http://xdubeslab.github.io/news/2015/09/20/tday.html</link>
+        <guid isPermaLink="true">http://xdubeslab.github.io/news/2015/09/20/tday.html</guid>
+        
+        
+        <category>news</category>
+        
+      </item>
+    
+      <item>
+        <title>张亮博士主持召开CCCV2015专题论坛</title>
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;《城市安全新视野:智能视频图像深度应用》&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;2015年9月18日至20日，第一届中国计算机视觉大会（CCCV 2015）在西安召开。西安电子科技大学大数据技术和嵌入式系统（BES）实验室张亮博士主持19日大会专题论坛。
+此次大会由中国计算机学会（CCF）主办，计算机视觉专委会协办，西安电子科技大学承办，共持续三天。会议期间，来自美洲、欧洲、澳洲和中国香港的四位专家为大会作了特邀报告；国内视觉领域知名专家作了三十余场专题论坛报告。国内外共四百余名学者参加了此次大会。&lt;/p&gt;
+
+&lt;p&gt;金秋九月，丹桂飘香。&lt;/p&gt;
+
+&lt;p&gt;9月19日下午，唐城宾馆花萼宫主会场庄重温馨，气氛热烈。CCCV2015专题论坛《城市安全新视野：智能视频图像深度应用》在这里召开。
+论坛开始前，整个会场已是座无虚席。三百余名与会代表翘首以待，期盼着和各位专家交流互动，有所收获。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/news/n_cccv_393.png&quot; alt=&quot;主会场&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/news/n_cccv_401.png&quot; alt=&quot;论坛会场座无虚席&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;下午三时许，西安电子科技大学BES实验室张亮博士登上主席台，宣布论坛大会开始，会场响起热烈掌声。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/news/n_cccv_462.png&quot; alt=&quot;张亮博士宣布论坛大会开始&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/news/n_cccv_477.png&quot; alt=&quot;张亮博士向与会嘉宾介绍本次论坛&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;张亮博士首先向全会介绍了本次专题论坛举办目的和意义。
+随后介绍了本次论坛的四位主讲嘉宾以及他们各自的报告题目。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/news/n_cccv_551.png&quot; alt=&quot;本次论坛的主讲嘉宾介绍和报告题目展示&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;四位嘉宾分别是来自上海复旦大学的姜育刚博士、北京大学的黄铁军教授、博康智能网络科技股份有限公司董事兼CTO田广先生和上海公安部三所的邵杰博士。
+论坛开始。姜育刚博士第一个作报告。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/news/n_cccv_662.png&quot; alt=&quot;姜育刚博士主讲《基于深度学习的视频内容识别》&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/news/n_cccv_687.png&quot; alt=&quot;复旦大学姜育刚博士作报告&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/news/n_cccv_702.png&quot; alt=&quot;大会会场&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;第二个作报告的是北京大学的黄铁军教授。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/news/n_cccv_726.png&quot; alt=&quot;北大黄铁军教授作报告&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/news/n_cccv_739.png&quot; alt=&quot;黄教授阐述智能视频分析领域三大难关&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/news/n_cccv_759.png&quot; alt=&quot;与会代表交流提问&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/news/n_cccv_770.png&quot; alt=&quot;黄教授认真聆听，仔细回答&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/news/n_cccv_785.png&quot; alt=&quot;张亮博士在认真笔记&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;随后，来自博康智能网络科技股份有限公司的董事兼CTO田广先生作为企业代表，第三个作报告。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/news/n_cccv_845.png&quot; alt=&quot;田广董事作大会报告&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/news/n_cccv_857.png&quot; alt=&quot;与会代表认真聆听&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/news/n_cccv_868.png&quot; alt=&quot;田广董事向大家展示企业实际应用和需求&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;第四个报告由来自上海公安部第三研究所物联网中心主任的邵杰博士主讲。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/news/n_cccv_923.png&quot; alt=&quot;公安部三所的邵杰博士作报告&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/news/n_cccv_939.png&quot; alt=&quot;张亮博士做总结发言&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;四位嘉宾的报告结束后，大会进入第二个议程：嘉宾讨论。
+张亮老师作为主持人，和五位邀请嘉宾一起，共同探讨新时期下公安安防领域中面临的新机遇和新挑战。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/news/n_cccv_1025.png&quot; alt=&quot;张亮博士主持嘉宾讨论 &quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;现场互动不断，与会嘉宾纷纷提问交流。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/news/n_cccv_1058.png&quot; alt=&quot;参与讨论的五位特邀嘉宾。分别是北大黄铁军教授、复旦姜育刚博士、上海交大张重阳博士、博康公司田广董事和三所邵杰博士）&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/news/n_cccv_1118.png&quot; alt=&quot;嘉宾阐述讨论观点&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/news/n_cccv_1129.png&quot; alt=&quot;大会讨论现场 &quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;嘉宾讨论共持续了四十分钟。 
+下午六时许，本次专题论坛圆满结束。&lt;/p&gt;
+
+&lt;p&gt;最后，CCCV2015大会宣传主席、西电BES实验室沈沛意教授，西电BES实验室张亮博士和五位嘉宾合影留念。 &lt;/p&gt;
+
+&lt;p&gt;据了解，本次会议于2015年9月18至20日在陕西省西安市举行。大会由西安电子科技大学计算机学院、电子工程学院和综合业务网理论及关键技术国家重点实验室联合承办，汇聚了从事计算机视觉理论与应用研究的人员，广泛开展学术交流，研讨发展战略，共同促进计算机视觉相关理论、技术及应用的发展。大会除四场特邀报告外，还有“青年学者眼中的图像视频大数据”、“人脸检测最新进展、问题和挑战”、“城市安全防御新视野：智能视频图像深度应用”、“计算机视觉：来自于生物视觉的启示”、“视觉显著性计算及应用”及“CCF-YOCSEF大区联合论坛：‘媒体感知与计算’暨‘FCS期刊华西区研讨会’”等六场专题论坛。
+据介绍，中国计算机视觉大会（CCF CCCV）是由中国计算机学会（CCF）主办，CCF计算机视觉专业委员会协办的计算机视觉领域盛会。该系列会议每两年举行一次，是国内计算机视觉领域最主要的学术活动，旨在为从事计算机视觉领域的学生、老师和工业界研究人员提供一个学科互动交流平台，促进领域内的学术交流以及学术界与工业界之间的交流，提高国内视觉领域的研究水平。大会邀请多位知名专家学者做主题报告，分享计算机视觉领域最新最热的理论和方法，为与会者接触学科最前沿的研究工作和团队，研究人员分享计算机视觉领域的研究成果、创新思想、最新研究进展提供了帮助。&lt;/p&gt;
+</description>
+        <pubDate>Fri, 18 Sep 2015 00:00:00 +0800</pubDate>
+        <link>http://xdubeslab.github.io/news/2015/09/18/cccv-2015.html</link>
+        <guid isPermaLink="true">http://xdubeslab.github.io/news/2015/09/18/cccv-2015.html</guid>
+        
+        
+        <category>news</category>
+        
+      </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,103 @@
+<!doctype html>
+<html>
+<head>
+    <title></title>
+    <meta http-equiv="content-type" content="text/html;charset=utf-8">
+    <link rel="stylesheet" type="text/css" href="/styles/evc.css">
+    <link rel="stylesheet" type="text/css" href="/styles/sliderman.css"/>
+    <link rel="stylesheet" type="text/css"
+          href="https://cdn.bootcss.com/font-awesome/4.6.3/css/font-awesome.min.css">
+</head>
+<body>
+<header>
+    <div class="background"></div>
+    <a href="/">
+        <div style="color: white; font-size: 48px;">
+            Embeded & Vision
+        </div>
+    </a>
+    <nav>
+        <a href="/"><i class="fa fa-home"></i><span>首页</span></a>
+        <a href="/news.html"><i class="fa fa-newspaper-o"></i><span>动态</span></a>
+        <a href="/research.html"><i class="fa fa-search"></i><span>科研</span></a>
+        <a href="/project.html"><i class="fa fa-file-code-o"></i><span>项目</span></a>
+        <a href="/team.html"><i class="fa fa-users"></i><span>团队</span></a>
+    </nav>
+    <div class="bar"></div>
+</header>
+<!-- 主体内容 -->
+<div id="main">
+<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+
+    <header class="post-header">
+        <h1 class="post-title" itemprop="name headline">Android手机控制NAO机器人</h1>
+        <p class="post-meta">
+            <span>
+            <span class="fa fa-calendar"></span> <time> 2016-05-19 </time>
+            
+            </span>
+        </p>
+    </header>
+
+    <div class="post-content" itemprop="articleBody">
+        <p>Nao机器人的软件可编程平台虽然没有开源，但是提供了丰富的API供开发者使用。</p>
+
+<p>在同一局域网内，Android手机和Nao机器人通过Socket通信——android应用端定义了一系列的button用来发送不同的命令，这样在Nao机器人平台运行的服务器接收到命令以后将作出相应的反应（例如走路，转头），并返回相应的数据（例如摄像头采集的视频流数据），这些都由官方提供的API实现（Python）。</p>
+
+<p><img src="/wp-content/uploads/2016/01/image006-300x245.png" alt="image006" /></p>
+
+<p>通信模块示意</p>
+
+<p><img src="/wp-content/uploads/2016/01/1-300x188.png" alt="1" /></p>
+
+<p>Android应用界面（控制按钮与视频显示）</p>
+
+<p>详细实现参见BES实验室郭枭鹏《仿人机器人控制与环境识别算法的研究及实现》</p>
+
+    </div>
+
+</article>
+<link rel="stylesheet" href="/bower_components/KaTeX/dist/katex.min.css">
+<script type="text/javascript" src="/bower_components/KaTeX/dist/katex.min.js"></script>
+<script>
+    function render(refNode) {
+        var tex, displayMode = false, container;
+        if (refNode.type === 'math/tex') {
+            tex = refNode.text;
+            container = document.createElement('span');
+        } else {
+            tex = refNode.text.substr(12, refNode.text.length - 17);
+            displayMode = true;
+            container = document.createElement('div');
+        }
+        console.log(tex);
+        katex.render(tex, container, {displayMode: displayMode});
+        refNode.parentNode.insertBefore(container, refNode);
+    }
+    var scripts = document.getElementsByTagName('script');
+    for (var i = 0; i < scripts.length; i++) {
+        if (scripts[i].type.startsWith('math/tex')) {
+            render(scripts[i]);
+        }
+    }
+</script>
+
+
+
+</div>
+<footer>
+    <p>
+        <a href="http://beslab.xidian.edu.cn">嵌入式技术与视觉处理研究中心</a>@<a
+            href="http://www.xidian.edu.cn">西安电子科技大学</a>
+    </p>
+    <p>
+        陕西省西安市太白南路2号
+    </p>
+    <p>
+        Copyright @ 2016
+    </p>
+</footer>
+<script type="text/javascript" src="/scripts/sliderman.js"></script>
+<script type="text/javascript" src="/scripts/slider.js"></script>
+</body>
+</html>

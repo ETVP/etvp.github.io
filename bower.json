@@ -1,0 +1,22 @@
+{
+  "name": "webbuilder",
+  "authors": [
+    "Oopsno <yufeiliu94@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "font-awesome": "fontawesome#^4.6.3",
+    "jquery": "^3.0.0",
+    "KaTeX": "katex#^0.6.0"
+  }
+}
